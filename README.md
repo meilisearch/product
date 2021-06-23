@@ -1,1 +1,1 @@
-# product-backlog
+# core-product
