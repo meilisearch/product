@@ -5,12 +5,16 @@
 <h1 align="center">MeiliSearch Product Team</h1>
 <h5 align="center">This repository is the place to watch and discuss about MeiliSearch core product, the search engine.</h5>
 
-<p align="center">
-  <a href="https://slack.meilisearch.com"><img src="https://img.shields.io/badge/slack-MeiliSearch-blue.svg?logo=slack" alt="Slack"></a>
-</p>
-
-
-# Product
+<h4 align="center">
+  <a href="https://github.com/meilisearch/MeiliSearch">MeiliSearch</a> |
+  <a href="https://docs.meilisearch.com">Documentation</a> |
+  <a href="https://slack.meilisearch.com">Slack</a> |
+  <a href="https://www.meilisearch.com">Website</a> |
+  <a href="https://blog.meilisearch.com">Blog</a> |
+  <a href="https://fr.linkedin.com/company/meilisearch">LinkedIn</a> |
+  <a href="https://twitter.com/meilisearch">Twitter</a> |
+  <a href="https://docs.meilisearch.com/faq/">FAQ</a>
+</h4>
 
 Welcome to the MeiliSearch product team repository 👋
 
