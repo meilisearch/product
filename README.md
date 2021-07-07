@@ -42,5 +42,10 @@ If the feature has been specified, the issue will be updated with a comment link
 
 Once a feature is released, the shipped label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant changelog post.
 
+# Product team
+
+- Quentin de Quelen ([@qdequele](https://github.com/qdequele))
+- Guillaume Mourier ([@gmourier](https://github.com/gmourier))
+
 # Disclaimer
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to MeiliSearch as of the date they are made, and MeiliSearch assumes no obligation to update any forward-looking statements. The forward-looking product roadmap does not represent a commitment, guarantee, obligation, or promise to deliver any product or feature or to deliver any product and feature by any particular date and is intended to outline the general development plans.
