@@ -1,4 +1,4 @@
 contact_links:
   - name: MeiliSearch Product Discussions
-    url: https://github.com/meilisearch/product/discussions/categories/feedback
+    url: https://github.com/meilisearch/product/discussions/categories/feedback-feature-proposal
     about: Please open a discussion rather than an issue to propose a feature or give feedback.
