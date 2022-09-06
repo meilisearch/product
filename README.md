@@ -29,13 +29,7 @@ Once you kick off a discussion, the Meilisearch product team will evaluate the f
 
 Every item on the roadmap is an issue created from Meilisearch's product team member. The issue can be created from a feedback discussion or transferred from another repository. The roadmap is arranged on a [project board](https://github.com/meilisearch/product/projects/5) to give a sense for how far out each item is on the horizon.
 
-Some of our features may still be in the discovery stages. These are included in the roadmap only for early feedback. These are marked as follows:
-
-- in design:
-We have decided to build this feature, but are still figuring out how.
-
-- exploring:
-We are considering building this feature, and gathering feedback on it.
+Some of our features may still be in a discovery state. These are included in the roadmap only for early feedback. These are marked as follows:
 
 Generally we don't plan a new feature without first doing a discovery but it is possible that some are planned while they are still in a discovery stage.
 
@@ -47,6 +41,7 @@ Once a feature is released, the shipped label will be applied to the roadmap iss
 
 - Quentin de Quelen ([@qdequele](https://github.com/qdequele))
 - Guillaume Mourier ([@gmourier](https://github.com/gmourier))
+- Dave Larkan ([@davelarkan](https://github.com/davelarkan))
 
 # Disclaimer
 
