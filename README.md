@@ -42,6 +42,7 @@ Once a feature is released, the shipped label will be applied to the roadmap iss
 - Quentin de Quelen ([@qdequele](https://github.com/qdequele))
 - Guillaume Mourier ([@gmourier](https://github.com/gmourier))
 - Dave Larkan ([@davelarkan](https://github.com/davelarkan))
+- María Craig ([@macraig](https://github.com/macraig))
 
 # Disclaimer
 
