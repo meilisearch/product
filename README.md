@@ -1,41 +1,29 @@
 # Meilisearch Product
 
-This repository act as a support to share and communicate with the internal product team of Meilisearch. You can share your feedback and improvements but also consult the roadmap.
+This repository act as a support to share and communicate with the internal product team of Meilisearch via [public product discussions](https://github.com/meilisearch/product/discussions).
 
-In this repository, you will find the official Meilisearch [roadmap](https://github.com/meilisearch/product/projects/5). Our product roadmap is where you can learn about what features we’re working on, what stage they’re in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Please share your feedback via our public [feedback discussions page](https://github.com/meilisearch/product/discussions/categories/feedback-feature-proposal).
+These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Meilisearch product team. Check out [Making Product Suggestions](#making-product-suggestions) to learn how to provide feedback. 
 
-In this repository, you can find the [public product discussions](https://github.com/meilisearch/product/discussions):
-- [News](https://github.com/meilisearch/product/discussions/categories/news)
-- [Feedback & Feature Proposal](https://github.com/meilisearch/product/discussions/categories/feedback-feature-proposal)
+Please review the [CODE OF CONDUCT](https://github.com/meilisearch/product/blob/main/CODE_OF_CONDUCT.md) before participating in discussions.
 
-These discussions are where you can share suggestions for how the products should be improved and discuss those improvements with the community, including members of the Meilisearch product team. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback. Please review the [CODE OF CONDUCT](https://github.com/meilisearch/product/blob/main/CODE_OF_CONDUCT.md) before participating in discussions.
+# Making Product Suggestions
 
-# Making Suggestions
-
-We encourage you to [open a discussion](https://github.com/meilisearch/product/discussions/categories/feedback-feature-proposal) if you have suggestions for how we can improve our product. You don’t need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations.
+We encourage you to [open a discussion](https://github.com/meilisearch/product/discussions/categories/feedback-feature-proposal) if you have suggestions for how we can improve our product. You don’t need to have a solution to the problem you are facing to kick off a discussion.
 
 Before making a new discussion, please take a look at previous discussions to see if someone else has already brought to our attention your suggestions. If you find a similar discussion, reply with additional details or react to signal your support rather than creating a new discussion.
 
-The Meilisearch product team loves to know why. Describing why you want something by sharing information about your use-case helps us a lot.
+The Meilisearch product team loves to know why. Describing why you want something by sharing information about your use-case helps us a lot to foster productive and collaborative conversations.
 
 ## From Suggestion To Release
 
 Once you kick off a discussion, the Meilisearch product team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you and the entire community to ensure we understand the current capabilities Meilisearch doesn’t have and explore the space for potential solutions to your problem statement:
 
-- If the product team determines that we are going to solve the problem you’ve identified, we may open an issue and track its development in the [public roadmap](https://github.com/meilisearch/product/projects/5).
+- If the product team determines that we are going to solve the problem you’ve identified, we will keep you informed on the related product discussions and we will also update our [public roadmap](https://roadmap.meilisearch.com/tabs/4-in-progress).
 - If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
 
-# Roadmap Guide
+# Roadmap
 
-Every item on the roadmap is an issue created from Meilisearch's product team member. The issue can be created from a feedback discussion or transferred from another repository. The roadmap is arranged on a [project board](https://github.com/meilisearch/product/projects/5) to give a sense for how far out each item is on the horizon.
-
-Some of our features may still be in a discovery state. These are included in the roadmap only for early feedback. These are marked as follows:
-
-Generally we don't plan a new feature without first doing a discovery but it is possible that some are planned while they are still in a discovery stage.
-
-If the feature has been specified, the issue will be closed with a comment linking to the related specification.
-
-Once a feature is released, the shipped label will be applied to the roadmap issue.
+The roadmap can be found [here](https://roadmap.meilisearch.com). This portal also allows you to vote, comment on existing ideas or suggest new ones.
 
 # Product Team Members
 
