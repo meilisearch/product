@@ -1,0 +1,16 @@
+name: GitHub Discussions To Slack Notifier
+
+on:
+  discussion:
+    types: [created]
+  discussion_comment:
+    types: [created]
+
+jobs:
+  notify-github-discussions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gmourier/gh-discussions-to-slack
+        with:
+          SLACK_CHANNEL_ID: ${{secrets.SLACK_CHANNEL_ID}}
+          SLACK_BOT_TOKEN: ${{secrets.SLACK_BOT_TOKEN}}
