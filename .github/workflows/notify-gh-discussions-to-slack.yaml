@@ -14,3 +14,4 @@ jobs:
         with:
           SLACK_CHANNEL_ID: ${{secrets.SLACK_CHANNEL_ID}}
           SLACK_BOT_TOKEN: ${{secrets.SLACK_BOT_TOKEN}}
+          send-discussion-comment: false
