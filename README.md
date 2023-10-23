@@ -29,7 +29,6 @@ The roadmap can be found [here](https://roadmap.meilisearch.com). This portal al
 
 - Quentin de Quelen ([@qdequele](https://github.com/qdequele))
 - Guillaume Mourier ([@gmourier](https://github.com/gmourier))
-- Dave Larkan ([@davelarkan](https://github.com/davelarkan))
 - María Craig ([@macraig](https://github.com/macraig))
 
 # Disclaimer
